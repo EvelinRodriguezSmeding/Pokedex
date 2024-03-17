@@ -1,0 +1,77 @@
+#myBtn{
+    background-color: #FFFFFF ;
+    outline: none;
+    width: 32px;
+    flex: 0 0;
+    height: 32px;
+    border: none;
+    border-radius: 50%;
+    color: #DC0A2D;
+    cursor: pointer;
+    box-shadow: 0px 1px 3px 1px rgba(0, 0, 0, 0.25) inset;
+}
+
+.input-pokemon[type="radio"]:checked {
+    accent-color:  #DC0A2D;
+}
+
+#myModal {
+    position:relative;
+    top: 107px;
+    right: -242px;
+    margin-right: 7px;
+    width: 113px;
+    height: 132px;
+    border-radius: 12px;
+    background-color: #DC0A2D;
+    box-shadow: 0px 3px 12px 3px rgba(0, 0, 0, 0.20);
+}
+
+.modal-box p {
+    color: #FFFFFF;
+    font-size: 12px ;
+    padding: 0.4rem;
+    font-style: normal;
+    font-weight: 700;
+    padding: 16px 20px;
+    line-height: 16px;
+}
+
+.modal-select {
+    background-color: #FFFFFF;
+    box-shadow: 0px 1px 3px 1px rgba(0, 0, 0, 0.25) inset;
+    border-radius: 8px;
+    width: 105px;
+    height: 80px;
+    padding-left: 16px;
+    padding-top: 16px;
+    margin: -1% auto;
+    line-height: 40px;
+    font-size: 12px;
+}
+
+.select-box{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    gap: 8px;
+    margin-top: -10px;
+}
+
+.select-box input {
+    border: 2px solid #DC0A2D;
+}
+
+label{
+    font-size: 10px;
+    font-weight: 400;
+    color: #1d1d1d;
+}
+
+#option1,
+#option2 {
+    width: 14px !important;
+    height: 14px !important;
+}
