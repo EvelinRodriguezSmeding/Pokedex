@@ -16,7 +16,7 @@ function Home() {
   const [foundPokemon, setFoundPokemon] = useState([]);
 
   useEffect(() => {
-    fetch("http://localhost:3000/pokemones")
+    fetch("https://json-server-fake-rest-api-pokedex.vercel.app/pokemones")
       .then((response) => {
         if (!response.ok) {
           setError(
