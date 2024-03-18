@@ -10,7 +10,7 @@ function PokemonPage() {
   const { id } = useParams();
 
   useEffect(() => {
-    fetch("http://localhost:3000/pokemones")
+    fetch("https://json-server-fake-rest-api-pokedex.vercel.app/pokemones")
       .then((response) => {
         console.log("pokemon " + id);
         if (!response.ok) {
