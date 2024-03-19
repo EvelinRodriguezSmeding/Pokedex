@@ -15,7 +15,7 @@ function PokemonDetail(props) {
   const { name, image, types, weight, height, moves, description, base_stats } =
     pokemon || {};
   useEffect(() => {
-    fetch("https://json-server-fake-rest-api-pokedex.vercel.app/pokemones" + id)
+    fetch("https://json-server-fake-rest-api-pokedex.vercel.app/pokemones/" + id)
       .then((response) => {
         if (!response.ok) {
           setError(
