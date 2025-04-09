@@ -64,10 +64,6 @@ This project was developed as part of the **Full Stack Web Development Bootcamp 
 - [@IgnacioSelva](https://github.com/IgnacioSelva)
 - [@tomasmiranda13](https://github.com/tomasmiranda13)
 
-## 📄 License
-
-MIT
-
 ---
 
 ## Español
@@ -126,7 +122,3 @@ Este proyecto fue desarrollado como parte del **Bootcamp de Full Stack Web Devel
 
 - [@IgnacioSelva](https://github.com/IgnacioSelva)
 - [@tomasmiranda13](https://github.com/tomasmiranda13)
-
-### 📄 Licencia
-
-MIT
