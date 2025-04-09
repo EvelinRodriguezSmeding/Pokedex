@@ -15,8 +15,8 @@ Pokédex is a web application with an attractive interface that allows users to 
 
 Here are some screenshots of the app:
 
-![Home - Searcher](<../Pokedex/public/images/pokedex%20primera-vista%20(01).png>)
-![Dtails Pokémon](../Pokedex/public/images/pokedex%20pikachu.png)
+![Home - Searcher](<./public/images/pokedex%20primera-vista%20(01).png>)
+![Dtails Pokémon](./public/images/pokedex%20pikachu.png)
 
 ## 🔗 Backend Repository
 
@@ -78,8 +78,8 @@ Pokédex es una aplicación web con una interfaz atractiva que permite explorar 
 
 Aquí hay algunas capturas de pantalla de la aplicación:
 
-![Home - Buscador](<../Pokedex/public/images/pokedex%20primera-vista%20(01).png>)
-![Detalles Pokémon](../Pokedex/public/images/pokedex%20pikachu.png)
+![Home - Buscador](<./public/images/pokedex%20primera-vista%20(01).png>)
+![Detalles Pokémon](./public/images/pokedex%20pikachu.png)
 
 ### 🔗 Repositorio del Backend
 
