@@ -59,11 +59,6 @@ This project was developed as part of the **Full Stack Web Development Bootcamp 
 
 👉 [Original project repository](https://github.com/tomasmiranda13/Proyecto-2)
 
-## 🤝 Contributors
-
-- [@IgnacioSelva](https://github.com/IgnacioSelva)
-- [@tomasmiranda13](https://github.com/tomasmiranda13)
-
 ---
 
 ## Español
@@ -117,8 +112,3 @@ Este proyecto utiliza una mock API separada, desplegada por medio de JSON Server
 Este proyecto fue desarrollado como parte del **Bootcamp de Full Stack Web Development de Senpai Academy**. Puedes ver el **repositorio original** aquí:
 
 👉 [Repositorio original del proyecto](https://github.com/tomasmiranda13/Proyecto-2)
-
-## 🤝 Contribuidores
-
-- [@IgnacioSelva](https://github.com/IgnacioSelva)
-- [@tomasmiranda13](https://github.com/tomasmiranda13)
